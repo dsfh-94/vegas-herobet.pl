@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Warunki korzystania z serwisu — Plinko on vegas-herobet</title>
-    <link>http://localhost:1313/regulamin/</link>
+    <link>https://vegas-herobet.pl/regulamin/</link>
     <description>Recent content in Warunki korzystania z serwisu — Plinko on vegas-herobet</description>
     <generator>Hugo</generator>
     <language>pl</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="http://localhost:1313/regulamin/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://vegas-herobet.pl/regulamin/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
